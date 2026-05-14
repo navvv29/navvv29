@@ -57,15 +57,3 @@
 
 ### NPTEL
 - SAYAM: Joy of Computing Using Python
-
-## Achievements
-
-- 3rd Prize - Astra'26 Project Expo at SIMAT (2026)
-- 1st Prize - Python Quiz Challenge (2025)
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=navvv29&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Navaneed's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navvv29&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Top languages" />
-</p>
