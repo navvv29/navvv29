@@ -41,3 +41,31 @@
 | [CompIntel](https://compensation-intelligence.onrender.com) | Compensation intelligence platform with analytics and secure auth | Next.js, Prisma, PostgreSQL, Tailwind CSS |
 | [SyncEdu](https://sync-edu-five.vercel.app) | AI-enabled campus ERP for academic and operational workflows | Agentic AI, Python, NLP, LLM |
 | Deforestation Fire Classification System | Forest fire risk analysis from MODIS satellite data | Python, Scikit-learn, GeoPandas |
+
+## Certifications
+
+### IBM SkillsBuild
+- Deep Learning with Keras & TensorFlow
+- Deep Learning with PyTorch
+- AI Agents Using RAG and LangChain
+- GenAI Foundational Models for NLP
+- Intro to Neural Networks and PyTorch
+- Data Forge: GenAI
+- GenAI Advanced Fine-Tuning for LLMs
+- GenAI Transformers
+- Cyber Job Simulation: Automation and Web Development
+
+### NPTEL
+- SAYAM: Joy of Computing Using Python
+
+## Achievements
+
+- 3rd Prize - Astra'26 Project Expo at SIMAT (2026)
+- 1st Prize - Python Quiz Challenge (2025)
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=navvv29&show_icons=true&theme=tokyonight&hide_border=true" alt="Navaneed's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navvv29&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
