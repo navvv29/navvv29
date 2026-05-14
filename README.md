@@ -56,4 +56,4 @@
 - Cyber Job Simulation: Automation and Web Development
 
 ### NPTEL
-- SAYAM: Joy of Computing Using Python
+- SWAYAM: Joy of Computing Using Python
