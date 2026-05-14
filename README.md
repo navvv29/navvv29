@@ -18,7 +18,6 @@
 ## About
 
 - B.Tech in Artificial Intelligence and Data Science, APJ Abdul Kalam Technological University (2023-2027)
-- CGPA: 7.92/10.0
 - Strong focus on AI/ML systems, NLP, computer vision, and production-oriented full-stack development
 - Built multiple end-to-end projects across AI products, analytics, and web platforms
 
@@ -42,16 +41,3 @@
 | [CompIntel](https://compensation-intelligence.onrender.com) | Compensation intelligence platform with analytics and secure auth | Next.js, Prisma, PostgreSQL, Tailwind CSS |
 | [SyncEdu](https://sync-edu-five.vercel.app) | AI-enabled campus ERP for academic and operational workflows | Agentic AI, Python, NLP, LLM |
 | Deforestation Fire Classification System | Forest fire risk analysis from MODIS satellite data | Python, Scikit-learn, GeoPandas |
-
-## Certifications and Achievements
-
-- IBM SkillsBuild certifications in Deep Learning (Keras, PyTorch), AI Agents with RAG/LangChain, and cloud deployment
-- 3rd Prize - Astra'26 Project Expo at SIMAT (2026)
-- 1st Prize - Python Quiz Challenge (2025)
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=navvv29&show_icons=true&theme=tokyonight&hide_border=true" alt="Navaneed's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navvv29&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
