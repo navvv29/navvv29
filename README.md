@@ -1,59 +1,55 @@
-<h1 align="center">Hi, I'm Navaneed P</h1>
+<!-- ========================================= -->
+<!--            PROFILE HEADER                -->
+<!-- ========================================= -->
+
+<h1 align="center">Hey there 👋 I'm Navaneed P</h1>
+
+<h3 align="center">
+AI & Data Science Undergraduate • AI/ML Engineer • Full-Stack Builder
+</h3>
+
 <p align="center">
-  AI and Data Science Undergraduate | AI/ML + Full-Stack Developer
+Building intelligent systems, scalable applications, and AI-powered products that solve real-world problems.
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Developer;Full-Stack+Engineer;Computer+Vision+%7C+NLP+%7C+RAG;Building+Production-Ready+AI+Systems;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
+
+---
 
 <p align="center">
   <a href="mailto:navaneedp29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/navaneed-p-97169b299" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  
+  <a href="https://www.linkedin.com/in/navaneed-p-97169b299">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/navvv29" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  
+  <a href="https://github.com/navvv29">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://komarev.com/ghpvc/?username=navvv29&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=navvv29&style=for-the-badge&color=blue"/>
   </a>
 </p>
 
-## About
+---
 
-- B.Tech in Artificial Intelligence and Data Science, APJ Abdul Kalam Technological University (2023-2027)
-- Strong focus on AI/ML systems, NLP, computer vision, and production-oriented full-stack development
-- Built multiple end-to-end projects across AI products, analytics, and web platforms
+# 🚀 About Me
 
-## Experience Highlights
-
-- **AI & Data Analytics Intern, AICTE Edunet Foundation - IBM SkillsBuild (2025):** worked on NASA MODIS satellite data, built ML pipelines, and integrated cloud APIs in web applications.
-- **Research and Development Intern, Envirotab Solutions (2025):** automated Python data collection/reporting workflows and reduced manual reporting effort.
-
-## Tech Stack
-
-- **Languages:** Python, JavaScript, TypeScript, SQL, Java, C, C++, R
-- **AI/ML:** TensorFlow, Keras, PyTorch, Scikit-learn, LangChain, Hugging Face, RAG, YOLOv8, OpenCV
-- **Web:** React.js, Node.js, Express.js, Next.js, HTML, CSS
-- **Databases & Tools:** PostgreSQL, MySQL, Git, GitHub, Docker, Jupyter Notebook, Google Colab
-
-## Featured Projects
-
-| Project | Focus | Tech |
-|---|---|---|
-| [AppForge AI](https://appforge-ai-hvco.onrender.com) | Multi-stage AI compiler that generates validated app schemas from natural language | Node.js, TypeScript, Express, Zod, Groq, OpenAI |
-| [CompIntel](https://compensation-intelligence.onrender.com) | Compensation intelligence platform with analytics and secure auth | Next.js, Prisma, PostgreSQL, Tailwind CSS |
-| [SyncEdu](https://sync-edu-five.vercel.app) | AI-enabled campus ERP for academic and operational workflows | Agentic AI, Python, NLP, LLM |
-| Deforestation Fire Classification System | Forest fire risk analysis from MODIS satellite data | Python, Scikit-learn, GeoPandas |
-
-## Certifications
-
-### IBM SkillsBuild
-- Deep Learning with Keras & TensorFlow
-- Deep Learning with PyTorch
-- AI Agents Using RAG and LangChain
-- GenAI Foundational Models for NLP
-- Intro to Neural Networks and PyTorch
-- Data Forge: GenAI
-- GenAI Advanced Fine-Tuning for LLMs
-- GenAI Transformers
-- Cyber Job Simulation: Automation and Web Development
-
-### NPTEL
-- SWAYAM: Joy of Computing Using Python
+```yaml
+Name: Navaneed P
+Role: AI & Data Science Undergraduate
+University: APJ Abdul Kalam Technological University
+Duration: 2023 - 2027
+Location: Kerala, India 🇮🇳
+Focus Areas:
+  - Artificial Intelligence
+  - Machine Learning
+  - NLP & RAG Systems
+  - Computer Vision
+  - Full-Stack Development
+  - AI Product Engineering
