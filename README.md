@@ -69,26 +69,6 @@ Current Focus:
 
 ---
 
-# 💼 Experience
-
-## 🛰 AI & Data Analytics Intern  
-### AICTE Edunet Foundation — IBM SkillsBuild *(2025)*
-
-- Worked with NASA MODIS satellite datasets for environmental analysis
-- Developed machine learning pipelines for predictive analytics
-- Integrated cloud APIs into web-based intelligent systems
-- Built preprocessing and data analysis workflows using Python ecosystems
-
----
-
-## 📈 Research & Development Intern  
-### Envirotab Solutions *(2025)*
-
-- Automated Python-based data collection and reporting systems
-- Reduced manual reporting effort through workflow optimization
-- Designed scalable automation scripts for enterprise operations
-
----
 
 # 🛠 Tech Stack
 
