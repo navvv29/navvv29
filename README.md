@@ -192,4 +192,4 @@ https://github.com/navvv29/compensation-intelligence
 ### AI-Enabled Smart Campus ERP
 
 🔗 **Live Demo:**  
-https://sync-edu-five.vercel.app
+https://github.com/navvv29/SyncEdu
