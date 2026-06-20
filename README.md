@@ -155,7 +155,7 @@ Current Focus:
 ### AI-Powered Multi-Stage Application Compiler
 
 🔗 **Live Demo:**  
-https://appforge-ai-hvco.onrender.com
+https://github.com/navvv29/AppForge-AI
 
 ### Highlights
 
@@ -174,7 +174,7 @@ https://appforge-ai-hvco.onrender.com
 ### Compensation Intelligence Platform
 
 🔗 **Live Demo:**  
-https://compensation-intelligence.onrender.com
+https://github.com/navvv29/compensation-intelligence
 
 ### Highlights
 
