@@ -210,45 +210,6 @@ Built and benchmarked ML models on NASA MODIS satellite data (50,000+ records) t
 
 ---
 
-## 🏆 Awards & Achievements
-
-| Award | Event | Year |
-|---|---|---|
-| 🥉 3rd Prize | Astra'26 Project Expo — SIMAT | 2026 |
-| 🥇 1st Prize | NeuraX Python Quiz Challenge — SIMAT | 2025 |
-| ✅ Selected | Digital University Kerala Hackathon 2026 — CivicResolve AI | 2026 |
-| ✅ Selected | Cepheus Hackathon, Atria University — FishKart | 2025 |
-| 🏅 Ranked #1 | F1-Score — AICTE/Shell AI Internship Fire Classification Task | 2025 |
-
----
-
-## 📜 Certifications
-
-<details>
-<summary><strong>IBM SkillsBuild (14 certifications — click to expand)</strong></summary>
-
-| Certification | Year |
-|---|---|
-| Deep Learning with Keras and TensorFlow | 2025 |
-| Deep Learning with PyTorch | 2025 |
-| Fundamentals of AI Agents Using RAG and LangChain | 2025 |
-| Generative AI and LLMs: Architecture & Data Prep | 2025 |
-| Generative AI Advanced Fine-Tuning for LLMs | 2025 |
-| Generative AI Language Modeling with Transformers | 2025 |
-| Generative AI Engineering & Fine-Tuning Transformers | 2025 |
-| Gen AI Foundational Models for NLP | 2025 |
-| Introduction to Neural Networks and PyTorch | 2025 |
-| Introduction to Deep Learning & Neural Networks with Keras | 2025 |
-| Journey to Cloud: Envisioning Your Solution | 2025 |
-
-</details>
-
-- **Tata Forage** — GenAI-Powered Data Analytics Job Simulation (2025)
-- **Deloitte Forage** — Cyber Job Simulation & Technology Job Simulation (2025)
-- **L&T EduTech** — Python Programming and Web Development (2024)
-- **NPTEL / SWAYAM** — The Joy of Computing Using Python · English for Competitive Exams (2024)
-
----
 
 ## 📊 GitHub Stats
 
@@ -263,17 +224,6 @@ Built and benchmarked ML models on NASA MODIS satellite data (50,000+ records) t
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Score | Year |
-|---|---|---|---|
-| B.Tech — AI & Data Science | APJ Abdul Kalam Technological University | CGPA: 7.92 / 10.0 | 2023 – 2027 |
-| HSC — Computer Science | GHSS Vazhakkad | 89.5% | 2021 – 2023 |
-| SSLC | GHS Chaliyappuram | 100% | 2020 – 2021 |
-
-**Relevant Coursework:** Data Structures & Algorithms · Artificial Intelligence · Machine Learning · Deep Learning & Neural Networks · Data Science & Analytics · Software Development · Web Development · Database Management · AI Product Engineering
-
----
 
 <p align="center">
   <i>Open to AI Engineering, ML, and Full-Stack internship and entry-level opportunities.</i><br/>
