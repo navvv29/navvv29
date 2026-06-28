@@ -30,7 +30,7 @@ Building end-to-end AI systems — LLM pipelines, RAG, fine-tuning, computer vis
 Name        : Navaneed P
 Degree      : B.Tech — Artificial Intelligence and Data Science
 University  : APJ Abdul Kalam Technological University
-Duration    : 2023 – 2027  |  CGPA: 7.92 / 10.0
+Duration    : 2023 – 2027  
 
 Internships : 3  (AI Engineering · R&D · AI Analytics · Web Development)
 Projects    : 9  end-to-end AI/ML and full-stack systems
