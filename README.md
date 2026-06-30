@@ -211,18 +211,7 @@ Built and benchmarked ML models on NASA MODIS satellite data (50,000+ records) t
 ---
 
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navvv29&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navvv29&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navvv29&theme=dark&hide_border=true" />
-</p>
-
----
 
 
 <p align="center">
