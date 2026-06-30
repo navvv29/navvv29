@@ -49,7 +49,7 @@ Core Areas  :
 
 ## 💼 Experience
 
-### 🏢 DataRig Pvt. Ltd. — AI Intern *(Jun 2026 – Present · Remote)*
+### 🏢 DataRig Pvt. Ltd. — AI Intern *(Jun 2026 – Jul 2026 · India)*
 Built an AI-powered psychometric assessment platform with a 4-component distributed architecture (Next.js · async FastAPI · Ollama LLM server · Milvus Lite vector DB). Fine-tuned Llama 3.1 8B using LoRA/QLoRA and built a RAG pipeline over embedded psychology research papers.
 
 ### 🏢 Envirotab Solutions — R&D Intern *(Jun 2025 – Jul 2025 · India)*
