@@ -5,7 +5,7 @@ AI & Data Science Undergraduate &nbsp;·&nbsp; AI/ML Engineer &nbsp;·&nbsp; Ful
 </h3>
 
 <p align="center">
-Pre-final year B.Tech student in Artificial Intelligence and Data Science at APJ Abdul Kalam Technological University (Expected May 2027).<br/>
+Final year B.Tech student in Artificial Intelligence and Data Science at APJ Abdul Kalam Technological University (Expected May 2027).<br/>
 Building end-to-end AI systems — LLM pipelines, RAG, fine-tuning, computer vision, and full-stack platforms.
 </p>
 
